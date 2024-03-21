@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Sure, here's the edited version with code blocks and bullet points for easy copy-pasting:
 
 # BlockArkToken Contract
@@ -58,3 +59,7 @@ console.log(votes);
 ```
 
 Remember to replace `'0x...'` with the actual member address, and `'https://mainnet.infura.io/v3/YOUR_INFURA_PROJECT_ID'` with your actual Infura project ID or another Ethereum node URL.
+=======
+# BlockArkToken
+Block Ark Studio Token Contract $ARK
+>>>>>>> cb2d4975d6e4038972a150f4d487859edd964697
